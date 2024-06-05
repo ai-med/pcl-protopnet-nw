@@ -1,7 +1,7 @@
 # Self-Supervised Training of Interpretable Neural Networks for Medical Applications
 
 ## About
-This code is based on my guided research with the [AI Med Lab](https://ai-med.de/) under the supervision of Tom Nuno Wolf at the Technical University of Munich. You can check out my report in `report.pdf` and my presentation in `presentation.pdf`.
+This code is based on [Michelle Espranita Liman](https://github.com/michelleespranita)'s guided research with the [AI Med Lab](https://ai-med.de/) under the supervision of [Tom Nuno Wolf](https://github.com/lupus83) at the Technical University of Munich. You can check out the report in `report.pdf` and the presentation in `presentation.pdf`.
 
 We developed two methods called **PCL-ProtoPNet** and **PCL-NW**, which aim to integrate *_interpretability_* of neural networks and *_self-supervised learning_* on unlabelled datasets.
 
